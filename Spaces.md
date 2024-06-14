@@ -1,6 +1,6 @@
 顏色：鉑月銀
 LCD尺寸：16-inch / 2.5K (2560 x 1600, WQXGA) 16:10 aspect ratio / 240Hz / OLED / Glossy display / G-Sync / Pantone Validated
-處理器：Intel® Core™ Ultra 9 Processor 185H 2.3 GHz (24MB Cache, up to 5.1 GHz, 16 cores, 22 Threads) ; Intel® AI Boost NPU
+處理器：Intel® Core™ Ultra 9 Processor 185H 2.3 GHz (24MB Cache, up to 4.5 GHz, 16 cores, 22 Threads) ; Intel® AI Boost NPU
 記憶體：16GB*2 LPDDR5X 7467 on board(Rated speed of RAM module. Actual memory speeds may vary by CPU configuration.)
 (Memory Slot / Memory Max.)：(N/A / 32GB)
 硬碟：1TB PCIe® 4.0 NVMe™ M.2 SSD
